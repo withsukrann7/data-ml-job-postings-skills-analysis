@@ -19,7 +19,7 @@ Kaggle: "Data Science Job Postings & Skills (2024)" (asaniczka).
 - Tekrarlı ilanlar sonucu değiştirmedi (12.217 → 12.213 satır).
 
 ## Bulgular
-![İlk 15 beceri](top15-beceriler.png)
+![İlk 15 beceri](top15.png)
 - Python (%44,4) ve SQL (%42,3) açık ara önde.
 - İletişim (%33,7) üçüncü sırada, yani ilk üçteki tek teknik olmayan beceri.
 - Yüzdeler beceri listesi dolu 10.457 Data & ML ilanına göre hesaplandı.
