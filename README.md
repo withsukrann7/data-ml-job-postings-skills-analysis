@@ -8,8 +8,7 @@ most often in ~10,000 data/ML job postings from January 2024.)
 Data & ML ilanlarında en sık istenen 15 beceri hangisi?
 
 ## Veri
-Kaggle: "Data Science Job Postings & Skills (2024)" (asaniczka).
-
+Kaggle:https://www.kaggle.com/datasets/asaniczka/data-science-job-postings-and-skills
 
 ## Yöntem
 - Üç tablo `job_link` ile birleştirildi (12.217 ilan).
