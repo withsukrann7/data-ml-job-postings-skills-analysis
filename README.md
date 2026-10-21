@@ -19,7 +19,7 @@ Kaggle:https://www.kaggle.com/datasets/asaniczka/data-science-job-postings-and-s
 
 ## Bulgular
 ![İlk 15 beceri](top15.png)
-![İlk 15 beceri tablo](top15tablo)
+![İlk 15 beceri tablo](top15tablo.png)
 
 - Python (%44,4) ve SQL (%42,3) açık ara önde.
 - İletişim (%33,7) üçüncü sırada, yani ilk üçteki tek teknik olmayan beceri.
